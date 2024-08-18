@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.hashem.uno.game'
+group = 'org.saif.uno.game'
 version = '1.0'
 
 repositories {

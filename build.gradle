@@ -7,9 +7,8 @@ subprojects {
 }
 
 allprojects {
-    group 'org.hashem.uno'
+    group 'org.saif.uno'
     version '1.0'
-
 
     repositories {
         mavenCentral()
