@@ -1,5 +1,5 @@
 # Uno-assignment
-## This project aims to show how well I can apply solid principles and clean coding.
+## This project aims to show how well I can apply SOLID principles and clean coding.
 Read the documentation.
 ## To run code after cloning the repo to intelliJ you need to:
 Enable annotation processing from the settings. \
